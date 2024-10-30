@@ -38,7 +38,7 @@ During this internship, I focused on five main projects:
 # 2. Movie Rating Prediction
 
   - Objective: To predict user ratings for movies based on features such as genre, director, budget, etc.
-  - Dataset: MovieLens dataset.
+  - Dataset: The dataset is sourced from Kaggle.
   - Approach:
      -  Data cleaning and feature selection.
      -  Exploratory data analysis to understand trends.
@@ -57,7 +57,7 @@ During this internship, I focused on five main projects:
 # 4. Sales Prediction
 
   - Objective: To forecast future sales based on historical data.
-  - Dataset: Custom or sourced dataset for sales figures.
+  - Dataset: The dataset is sourced from Kaggle..
   - Approach:
      -  Data preprocessing and handling of time-series data.
      -  Feature engineering to add seasonality indicators.
